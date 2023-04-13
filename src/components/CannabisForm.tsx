@@ -431,9 +431,7 @@ const CannabisForm = (props: Props) => {
               dateOfBirth === "" ||
               email === "" ||
               phone === "" ||
-              prescription === "" ||
-              tick1 === false ||
-              tick2 === false
+              prescription === ""
             }
           >
             REDEEM
